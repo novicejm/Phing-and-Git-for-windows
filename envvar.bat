@@ -9,7 +9,7 @@ echo =========================================================================
 
 setx PHING_HOME "c:\opt\phing"
 setx PHP_CLASSPATH "c:\opt\phing\classes"
-setx PATH "%PATH%;%PHING_HOME%"
+setx PATH "%PATH%;%PHING_HOME%\bin"
 echo Locate the php.exe in your computer, and include the full path and php.exe
 echo Ex. c:\php\bin\php.exe
 echo =========================================================================
